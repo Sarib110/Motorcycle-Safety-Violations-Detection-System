@@ -54,7 +54,7 @@ This repository contains a Python-based application designed to detect and docum
 
 1. Run the application:
    ```bash
-   python traffic_violation_detection.py
+   python traffic_violation.py
    ```
 
 2. The system processes the input video and saves the violation evidence in a folder named `Violations/<date>`.
