@@ -76,8 +76,6 @@ This repository contains a Python-based application designed to detect and docum
   - Mobile and one-wheeling detection
 - **OCR Space API**: For extracting license plate numbers from images.
 
-For queries or support, contact [your email address] or open an issue in this repository.
-
 ---
 
 **Note:** Ensure compliance with local data privacy and traffic regulations before deploying this system.
