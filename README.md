@@ -1,10 +1,5 @@
 # Motorcycle-Safety-Violations-Detection-System
 
-Here's a professional and formal `README.md` file for your project:
-
-```markdown
-# Traffic Violation Detection System
-
 This repository contains a Python-based application designed to detect and document traffic violations using machine learning models. The system processes video footage to identify various traffic violations involving motorcyclists, such as helmet usage, lane discipline, triple riding, mobile usage, and one-wheeling. It also extracts license plate numbers for further action.
 
 ## Features
