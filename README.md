@@ -31,8 +31,8 @@ This repository contains a Python-based application designed to detect and docum
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/traffic-violation-detection.git
-   cd traffic-violation-detection
+   git clone https://github.com/Sarib110/Motorcycle-Safety-Violations-Detection-System
+   cd Motorcycle-Safety-Violations-Detection-System
    ```
 
 2. Install dependencies:
@@ -75,32 +75,6 @@ This repository contains a Python-based application designed to detect and docum
   - Lane detection
   - Mobile and one-wheeling detection
 - **OCR Space API**: For extracting license plate numbers from images.
-
-## How It Works
-
-1. The system processes every 30th frame of the input video.
-2. Each frame is analyzed using machine learning models to detect motorcyclists and associated violations.
-3. If a violation is detected:
-   - The system extracts license plate information (if visible).
-   - Annotates and saves evidence images.
-   - Categorizes violations with details like license plate number, violation type, and timestamp.
-
-## Future Enhancements
-
-- Add support for more traffic violations.
-- Integrate real-time video processing.
-- Improve OCR accuracy for license plate detection.
-- Add a dashboard for monitoring and analyzing violations.
-
-## Contributing
-
-Contributions are welcome! Please submit a pull request or open an issue to discuss improvements or report bugs.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
-## Contact
 
 For queries or support, contact [your email address] or open an issue in this repository.
 
