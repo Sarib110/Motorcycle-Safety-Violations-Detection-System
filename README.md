@@ -77,5 +77,3 @@ This repository contains a Python-based application designed to detect and docum
 - **OCR Space API**: For extracting license plate numbers from images.
 
 ---
-
-**Note:** Ensure compliance with local data privacy and traffic regulations before deploying this system.
