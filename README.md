@@ -57,7 +57,7 @@ This repository contains a Python-based application designed to detect and docum
    python traffic_violation.py
    ```
 
-2. The system processes the input video and saves the violation evidence in a folder named `Violations/<date>`.
+2. The system processes the input video and saves the violation evidence in a folder named `Violations/<date>` and also print the violation.
 
 ## Folder Structure
 
